@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module kodnest.pattern.alphabetPatter {
+}
